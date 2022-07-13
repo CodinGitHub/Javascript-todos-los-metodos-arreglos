@@ -1,0 +1,11 @@
+{
+    "nombre": "David",
+    "apellido": "Ruiz",
+    "edad": 37,
+    "cur sos": ["html", "css", "javascript"],
+    "experiencia": [
+        {"id": 1, "empresa": "empresa1"},
+        {"id": 2, "empresa": "empresa2"},
+        {"id": 3, "empresa": "empresa2", "cargo": "cargo1"}
+    ]
+}
